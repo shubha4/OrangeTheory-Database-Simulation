@@ -1,1 +1,3 @@
-# OrangeTheory-Database-Simulation
+# Sample Orangetheory Database
+
+For our advanced relational database management project, my group and I built a database for Orangetheory based on our understanding of their business model. We began by creating a database on one of our class servers, populating entities with the necessary information, and enforcing synthetic transactions for simulated customer and business behavior. We also added stored procedures, computed columns, and business rule constraints that we thought would be valuable information for day-to-day operations and strategic initiatives. Lastly, we created views and used them to develop Tableau visualizations communicating business insights for a more straightforward decision-making process.
